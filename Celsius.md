@@ -11,6 +11,21 @@ let HEADER = [
     "",     //Reward Amount In Original Coin"
     "Confirmed"
 ]
+
+let HEADER_EXT = [
+    "Internal id",
+    "Date and time",
+    "Transaction type",
+    "Coin type",
+    "Coin amount",
+    "USD Value",
+    "",     //Original Reward Coin"
+    "",     //Reward Amount In Original Coin"
+    "Confirmed",
+    "",     //Accredited investor status
+    "Lock date and time",
+    "Unlock date and time"
+]
 ```
 # Action Mapping
 ```swift

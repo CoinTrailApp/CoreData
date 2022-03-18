@@ -7,7 +7,21 @@ struct AuditTransaction: Identifiable {
     let value: Value
     let settlementDate: Date
 }
+
+enum Action: Enumeration {
+    case Reward
+    case Earn
+                
+    case Buy
+    case Sell
+                
+    case Deposit
+    case Withdraw
+                
+    case Swap 
+}
 ```
+
 # Mapping
 - Coinbase *exchange*
 - Cashapp *payment*

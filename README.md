@@ -1,6 +1,9 @@
 # The Mission
 To help accelerating crypto adoption, holding crypto without fear of tax burden.
 
+# Roadmap
+
+# Features
 ## Secure and Decentralized
 Only you have access to your data. All imported transactions, settings... are kept securely on your device
 

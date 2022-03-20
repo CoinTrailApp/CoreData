@@ -18,4 +18,4 @@ Very rffective algorithm to detect duplication and matching transactions
 Simply just air-drop or select csv files exported from exchange or wallet
 
 ## Community Driven
-Free to use, no transaction limits...follow us on **Twitter** [@CoinTrailApp](https://twitter.com/CoinTrailApp)
+Free to use, no transaction limits...join the community on *Twitter* [@CoinTrailApp](https://twitter.com/CoinTrailApp)

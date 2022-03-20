@@ -12,7 +12,7 @@ Only you have access to your data. All imported transactions, settings... are ke
 Easily review all your holdings, transactions, cost basic, fees, taxable income...
 
 ## Smart Transactions Grouping
-Very rffective algorithm to detect duplication and matching transactions
+Very effective algorithm to detect duplication, matching transactions and tracking cost basic across exchange and wallet.
 
 ## Intuitive Import Wizard
 Simply just air-drop or select csv files exported from exchange or wallet

@@ -22,6 +22,9 @@ enum Action: Enumeration {
 }
 ```
 
+# Basic cost
+TBD
+
 # Mapping
 - Coinbase *exchange*
 - Cashapp *payment*

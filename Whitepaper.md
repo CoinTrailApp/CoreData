@@ -22,7 +22,7 @@ enum Action: Enumeration {
 }
 ```
 
-# Basic cost
+# Calculator
 TBD
 
 # Mapping

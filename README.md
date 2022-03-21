@@ -1,10 +1,9 @@
 # The Mission
-To help accelerating crypto adoption, holding crypto without fear of tax burden.
+The best crypto tax calculator helps accelerating cyptocurrency adoption and HODLing without fear of tax burden.
 
 # Roadmap
 TBD
 
-# Features
 ## Secure and Decentralized
 Only you have access to your data. All imported transactions, settings... are kept securely on your device.
 
@@ -18,4 +17,4 @@ Very effective algorithm to detect duplication, matching transactions and tracki
 Simply just air-drop or select csv files exported from exchange or wallet
 
 ## Community Driven
-Free to use, no transaction limits... for feature request and support, please join the community on *Twitter* [@CoinTrailApp](https://twitter.com/CoinTrailApp)
+Please join the community on *Twitter* [@CoinTrailApp](https://twitter.com/CoinTrailApp) for feature request and support

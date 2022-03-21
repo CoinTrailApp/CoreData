@@ -1,5 +1,5 @@
 # The Mission
-The best crypto tax calculator helps accelerating cyptocurrency adoption and HODLing without fear of tax burden.
+The best crypto tax calculator helps accelerating cryptocurrency adoption and HODLing without fear of tax burden.
 
 # Roadmap
 TBD

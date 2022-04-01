@@ -23,6 +23,7 @@ let ACTIONS = [
     
     "fee":          AuditTransaction.Action.Swap,
     "conversion":   AuditTransaction.Action.Swap,
+    "rebate":       AuditTransaction.Action.Reward
 ]
 ```
 

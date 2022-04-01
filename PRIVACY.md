@@ -6,18 +6,20 @@ This Privacy Policy governs our privacy practices regarding the use of mobile ap
 
 The Application does not collect or transmit any persional data about you: such as your name, phone number, private key, email, location...
 
-All your imported transactions, settings... are stored locally on your mobile device
+All your imported transactions are stored locally in Sqlite Database on your mobile device.
+
+All your sensitive data: such as api keys, wallet addresses... are stored securely in KeyChain on your mobile device.
 
 **Diagnostic Data**
 
-The Application does not collect any log data
+The Application does not log any sensitive information and not collect any log data
 
-**Changes to This Privacy Policy**
+**Privacy Policy Changes**
 
-We may update our Privacy Policy from time to time. Hence, you are advised to review this page periodically for any changes.
+We may update this Privacy Policy from time to time. Hence, you are advised to review this page periodically for any changes.
 
-This policy is effective as of 2022-03-16
+This policy is effective as of 2022-04-01
 
 **Contact Us**
 
-If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact us on *Twitter @CoinTrailApp*
+If you have any questions or suggestions about the Privacy Policy, please do not hesitate to contact us on *Twitter @CoinTrailApp*

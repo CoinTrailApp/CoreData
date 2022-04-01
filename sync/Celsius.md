@@ -1,45 +1,42 @@
-# Csv Header
+# Json Response
 ```swift
-let HEADER = [
-    "Internal id",
-    "Date and time",
-    "Transaction type",
-    "Coin type",
-    "Coin amount",
-    "USD Value",
-    "",     //Original Reward Coin"
-    "",     //Reward Amount In Original Coin"
-    "Confirmed"
-]
+struct JsonRecords: Decodable {
+    let pagination: JsonPagination
+    let record: [JsonRecord]
+}
 
-let HEADER_EXT = [
-    "Internal id",
-    "Date and time",
-    "Transaction type",
-    "Coin type",
-    "Coin amount",
-    "USD Value",
-    "",     //Original Reward Coin"
-    "",     //Reward Amount In Original Coin"
-    "Confirmed",
-    "",     //Accredited investor status
-    "Lock date and time",
-    "Unlock date and time"
-]
+struct JsonRecord: Decodable, CustomStringConvertible {
+    let id: String
+    let amount_precise: String
+    let amount_usd: String
+    let coin: String
+    let nature: String
+    let time: String
+    let state: String
+
+    var description: String {
+        return "{id: \(id), amount_precise: \(amount_precise), amount_usd: \(amount_usd), coin: \(coin), nature: \(nature), time: \(time), state: \(state)}"
+    }
+}
+
+struct JsonPagination: Decodable {
+    let current: Int
+    let pages: Int
+}
 ```
 # Action Mapping
 ```swift
 let ACTIONS = [
-    "Swap in" :             AuditTransaction.Action.Buy,
-    "Swap out":             AuditTransaction.Action.Sell,
+    "swap_in" :             AuditTransaction.Action.Buy,
+    "swap_out":             AuditTransaction.Action.Sell,
 
-    "Transfer":             AuditTransaction.Action.Deposit,
-    "Withdrawal":           AuditTransaction.Action.Withdraw,
-    "Outbound Transfer":    AuditTransaction.Action.Withdraw,
+    "deposit":              AuditTransaction.Action.Deposit,
+    "withdrawal":           AuditTransaction.Action.Withdraw,
+    "outbound_transfer":    AuditTransaction.Action.Withdraw,
 
-    "Reward":               AuditTransaction.Action.Earn,
+    "reward":               AuditTransaction.Action.Earn,
     "interest":             AuditTransaction.Action.Earn,
-    "Promo Code Reward":    AuditTransaction.Action.Reward
+    "promo_code_reward":    AuditTransaction.Action.Reward
 ]
 ```
 

@@ -1,3 +1,10 @@
+# Abstract
+High demand in cryptocurrency is creating a new tax filing challenge for individuals who own this asset class. Unlike, traditional finance where an institution can hand out 8949 tax form at the end of the year, the crypto exchanges are not able to do so due to lack of origin Cost Basic when crypto being transferred cross exchanges.
+
+In this paper, CoinTrail is proposing a very simple and effectively algorithm to keep track of Cost Basic and Tax Calculation engine which helps easy the mind of crypto HODLers.
+
+# Introduction
+
 # Transaction
 ```swift
 struct AuditTransaction: Identifiable {
@@ -22,11 +29,6 @@ enum Action: Enumeration {
 }
 ```
 
-# Calculator
+# Tax Engine
 TBD
 
-# Mapping
-- Coinbase *exchange*
-- Cashapp *payment*
-- Celsius *Ce-Fi*
-- Electrum *wallet*

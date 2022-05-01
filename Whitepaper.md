@@ -1,6 +1,6 @@
 [WIP]
 # Abstract
-High demand in cryptocurrency creates a new tax filing challenge for individuals who own this asset class. Unlike, traditional finance where an institution can hand out 8949 tax form at the end of the year, the crypto exchanges are not able to do so due to lack of origin Basic Cost when assets being transferred cross exchanges.
+Booming in cryptocurrency creates a new tax filing challenge for individuals who own this asset class. Unlike, traditional finance where an institution can hand out 8949 tax form at the end of the year, the crypto exchanges are not able to do so due to lack of origin Basic Cost when assets being transferred cross exchanges.
 
 In this paper, CoinTrail is proposing a very simple and effectively algorithm to keep track of Basic Cost and Tax Calculation Engine which helps easy the mind of crypto HODLers.
 

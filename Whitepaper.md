@@ -5,7 +5,7 @@ Booming in cryptocurrency creates a new tax filing challenge for individuals who
 In this paper, CoinTrail is proposing a very simple and effectively algorithm to keep track of Basic Cost and Tax Calculation Engine which helps easy the mind of crypto HODLers.
 
 # Introduction
-Unlike existing solutions on the market with SAS based approach, CoinTrail is a Crypto Tax Calculator in your pocket. Just an app that runs locally on the mobile device, with no server, no backend, no signup...to ensure privacy of asset owners, offer a better user experience and cheaper service.
+Unlike existing solutions on the market with SaaS based approach, CoinTrail is a Crypto Tax Calculator in your pocket. Just an app that runs locally on the mobile device, with no server, no backend, no signup...to ensure privacy of asset owners, offer a better user experience and cheaper service.
 
 CoinTrail automatically manages tax-lots when you make a trade or transfer based on the tax strategy of your choice. It shows you which lot will be used prior to making a sale, which one will be reserved if you make a withdrawal and restore exact Basic Cost as deposit into other exchanges.
 

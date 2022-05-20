@@ -1,8 +1,7 @@
 # The Mission
 The best crypto tax calculator helps accelerating cryptocurrency adoption and HODLing without fear of tax burden.
 
-# Website
-www.cointrail.app
+# www.cointrail.app
 
 ## Secure and Decentralized
 Only you have access to your data. All imported transactions, settings... are kept securely on your device.
